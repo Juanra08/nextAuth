@@ -1,0 +1,1 @@
+https://dev.to/dawnind/authentication-with-credentials-using-next-auth-and-mongodb-part-1-m38
